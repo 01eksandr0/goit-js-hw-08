@@ -1,0 +1,13 @@
+.gallery {
+  margin: 20px 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  align-items: center;
+}
+.gallery-item {
+  list-style: none;
+}
+.gallery-link {
+  cursor: pointer;
+}
